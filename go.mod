@@ -1,4 +1,4 @@
-module github.com/elevenlabs/elevenlabs-golang
+module github.com/LinkedDestiny/elevenlabs-golang
 
 go 1.21
 
