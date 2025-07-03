@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs/core"
+	"github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs/core"
 )
 
 // Client handles voice operations

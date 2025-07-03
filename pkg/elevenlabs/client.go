@@ -1,9 +1,9 @@
 package elevenlabs
 
 import (
-	"github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs/core"
-	"github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs/text_to_speech"
-	"github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs/voices"
+	"github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs/core"
+	"github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs/text_to_speech"
+	"github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs/voices"
 )
 
 // Client is the main ElevenLabs API client

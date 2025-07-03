@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs/core"
+	"github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs/core"
 )
 
 // Predefined environments

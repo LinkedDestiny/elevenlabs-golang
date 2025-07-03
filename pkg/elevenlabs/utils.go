@@ -1,6 +1,6 @@
 package elevenlabs
 
-import "github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs/core"
+import "github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs/core"
 
 // PlayAudio is a convenience function that plays audio using the core audio utilities
 func PlayAudio(audio []byte) error {

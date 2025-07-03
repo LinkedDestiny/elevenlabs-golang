@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs/core"
+	"github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs/core"
 )
 
 // Client handles text-to-speech operations

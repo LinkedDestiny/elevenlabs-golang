@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs"
-	"github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs/text_to_speech"
+	"github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs"
+	"github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs/text_to_speech"
 )
 
 func main() {
