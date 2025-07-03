@@ -36,5 +36,5 @@ jobs:
 
     - name: Update Go Proxy
       run: |
-        go list -m github.com/elevenlabs/elevenlabs-golang@${{ github.ref_name }}
-        go list -m github.com/elevenlabs/elevenlabs-golang@${{ github.ref_name }} 
+        go list -m github.com/LinkedDestiny/elevenlabs-golang@${{ github.ref_name }}
+        go list -m github.com/LinkedDestiny/elevenlabs-golang@${{ github.ref_name }} 

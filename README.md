@@ -1,7 +1,7 @@
 # ElevenLabs Go SDK
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/elevenlabs/elevenlabs-golang.svg)](https://pkg.go.dev/github.com/elevenlabs/elevenlabs-golang)
-[![Go Report Card](https://goreportcard.com/badge/github.com/elevenlabs/elevenlabs-golang)](https://goreportcard.com/report/github.com/elevenlabs/elevenlabs-golang)
+[![Go Reference](https://pkg.go.dev/badge/github.com/LinkedDestiny/elevenlabs-golang.svg)](https://pkg.go.dev/github.com/LinkedDestiny/elevenlabs-golang)
+[![Go Report Card](https://goreportcard.com/badge/github.com/LinkedDestiny/elevenlabs-golang)](https://goreportcard.com/report/github.com/LinkedDestiny/elevenlabs-golang)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The official Go SDK for [ElevenLabs](https://elevenlabs.io/). ElevenLabs brings the most compelling, rich and lifelike voices to creators and developers in just a few lines of code.
@@ -13,7 +13,7 @@ Check out the [HTTP API documentation](https://elevenlabs.io/docs/api-reference)
 ## Install
 
 ```bash
-go get github.com/elevenlabs/elevenlabs-golang
+go get github.com/LinkedDestiny/elevenlabs-golang
 ```
 
 ## Quick Start
@@ -25,8 +25,8 @@ import (
     "context"
     "log"
     
-    "github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs"
-    "github.com/elevenlabs/elevenlabs-golang/pkg/elevenlabs/text_to_speech"
+    "github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs"
+    "github.com/LinkedDestiny/elevenlabs-golang/pkg/elevenlabs/text_to_speech"
 )
 
 func main() {
